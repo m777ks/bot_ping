@@ -2,7 +2,7 @@ import os
 import telebot
 
 hostname = "http://127.0.0.1:8000/"
-bot = telebot.TeleBot('6693909143:AAE3shto93QZbIL4zKB4B9N8naiDMhxW1KI')
+bot = telebot.TeleBot('')
 
 
 # response = os.system('ping ' + hostname)
